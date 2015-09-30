@@ -1,0 +1,32 @@
+{
+  "name": "naija-postalcode",
+  "version": "1.0.0",
+  "description": " A library for retrieving Nigeria Postal Codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busayo/naija-postal-code.git"
+  },
+  "keywords": [
+    "Postal",
+    "codes",
+    "Naija",
+    "Naija",
+    "Postal",
+    "Codes",
+    "Nigeria"
+  ],
+  "author": "Prosper Otemuyiwa <prosperotemuyiwa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/busayo/naija-postal-code/issues"
+  },
+  "homepage": "https://github.com/busayo/naija-postal-code#readme",
+  "devDependencies": {
+    "coveralls": "^2.11.4",
+    "istanbul": "^0.3.21"
+  }
+}
