@@ -1,0 +1,46 @@
+{
+  "state": [{
+    "name": "Abia",
+    "town": {
+      "Umuahia": [
+        {
+          "area"    : "Afara",
+          "postcode": 440221,
+          "streets" : "Aba Rd. , Akanu Ibiam St. , Cementry Rd. , Factory Rd. , Library Avn. , Market Rd. , Okpara Avn. , Timber Rd."
+        },
+        {
+          "area" : "Amuzukwu",
+          "postcode": 440231,
+          "streets": "Abam St. , Asaba St. , Igbere St. , Nkwere St. , Olokoro St. , Orie Ugba"
+        },
+        {
+          "area" : "Ugwunchara",
+          "postcode": 440232,
+          "streets": "Hill Top St. , Ekwuruke St. , Ngwa St. , Oboro St. , Obowa St. , Oji River St. , Omuopara St. , Ozuitem St. , Udi St. , Umueze St."
+        },
+        {
+          "area" : "Umuahia Urban III",
+          "postcode":  440233,
+          "streets": "BCA Rd. , Adelabu St. , Afara St. , Aguyi Ironsi Layout , Amokwe St. , Awkuzu Ln. , Awolowo St. , Awuka St. , Azikiwe Rd. , Clifford Rd. , Ezeakomors St. , Ezeogbulafor St. , Finbarrs Rd. , Igbo St. , Ikot Ekpene Rd. , Imo Ln. , Isuochi St. , Jos St. , Kaduna St. , Kano St. , Macolay St. , Nkporo St. , Ogoja Ln. , Ojike St. , Ossah Rd. , Palm Ln. , Provincial Layout (Secretariat) Ln. , Rivers , School Rd. , Umuobasi St. , Uwalaka Rd. , Uyo St."
+        },
+        {
+          "area" : "Umuahia Urban I",
+          "postcode": 440234,
+          "streets": "Abiriba St. , Bende Rd. , Bonny St. , Cameroon St. , Crowther St. , Eket St. , Item St. , Lagos St. , Ohafia St. , Okwulehe St. , Umuwaya Rd. , Warri St."
+        },
+        {
+          "area" : "Ossah",
+          "postcode": 440235,
+          "streets": "Accra Ln. , Ahoda St. , Alayi St. , Alor St. , Club Rd. , Mechanic Shed , Mission Hill Rd. , Nsukka Ln. , Oba St. , Oguta St. , Okpara Round about (Commercial Layout)"
+        },
+        {
+          "area" : "World Bank",
+          "postcode": 440236,
+          "streets": "World Bank Estate"
+        }
+      ],
+      "Aba": [
+      ]
+    }
+  }]
+}
